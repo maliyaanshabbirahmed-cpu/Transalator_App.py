@@ -3,4 +3,5 @@ torch>=2.2.0,<3.0
 transformers>=4.44.0,<5.0
 sentencepiece>=0.2.0
 faster-whisper>=1.1.0
+av==18.1.0
 gTTS>=2.5.0
