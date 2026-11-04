@@ -1,0 +1,1 @@
+# Transalator_App.py
